@@ -914,6 +914,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -945,9 +947,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -6963,6 +6968,291 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      '#2 - Transparent Icons & Drop Shadow_15': 3806784070233699775
+      Lmap 2: 3483340098289625841
+      Ring 3: -4959899092030057782
+      Letter: -9202433882124039654
+      '#2 - Transparent Icons & Drop Shadow_139': 7322225789008322440
+      Staff Lightning: -7399256461421256914
+      Boot 2: -3611065304843812169
+      '#2 - Transparent Icons & Drop Shadow_46': -3259243744252596725
+      '#2 - Transparent Icons & Drop Shadow_141': 4876574062683277506
+      '#2 - Transparent Icons & Drop Shadow_11': 4558633621754773204
+      Book 4: 3628495426549715520
+      '#2 - Transparent Icons & Drop Shadow_149': -1837074531912217946
+      '#2 - Transparent Icons & Drop Shadow_260': 1849968632212408060
+      Dice: -8678670238620706453
+      '#2 - Transparent Icons & Drop Shadow_13': -3390942904790010266
+      '#2 - Transparent Icons & Drop Shadow_116': 971504893046722317
+      Mana Potion: -1847224337267446819
+      Cotten: 5403132134260291811
+      Staff Water: -7387093150480851852
+      Map: -3046216337235638372
+      '#2 - Transparent Icons & Drop Shadow_263': -3466711498889415249
+      Sleep: 7685470968617421020
+      Crossbow: 1056014759243546959
+      Staff Fire: -11322859963825669
+      '#2 - Transparent Icons & Drop Shadow_109': -8508503817635240546
+      '#2 - Transparent Icons & Drop Shadow_20': -772803406078260477
+      Hourglass: 830162279942836597
+      '#2 - Transparent Icons & Drop Shadow_150': 3563044760079015136
+      '#2 - Transparent Icons & Drop Shadow_180': -8936463708450247864
+      '#2 - Transparent Icons & Drop Shadow_283': 8966060540651279181
+      Meat Stake: 5162288378122022885
+      '#2 - Transparent Icons & Drop Shadow_237': 4553488662114205020
+      '#2 - Transparent Icons & Drop Shadow_253': -1381023906944720389
+      Sun Dawn: 5333913983957367281
+      Bow & Arrmow: -7656981068869977111
+      Gold Coin: 3045905129727160601
+      Tool Graple: 5895743733560592253
+      '#2 - Transparent Icons & Drop Shadow_31': -4370429751426449405
+      Sword 3: -7907440099980241561
+      '#2 - Transparent Icons & Drop Shadow_162': -6596681222949706149
+      '#2 - Transparent Icons & Drop Shadow_212': -7853998414096601524
+      Fish Bait: -5526351751305055198
+      Shield 2: -5813384638183593889
+      Shield 3: 9158683398484645407
+      Axe 1: 821283588467877935
+      '#2 - Transparent Icons & Drop Shadow_41': -5692852124484312159
+      Book 1: -8409008894314519048
+      Fish 2: -6617779257180967827
+      '#2 - Transparent Icons & Drop Shadow_32': 8573033428421157452
+      '#2 - Transparent Icons & Drop Shadow_21': -7108182838404684714
+      Sun noon: 6145633931487486579
+      Meat Leg: 7026316078318186500
+      '#2 - Transparent Icons & Drop Shadow_10': -8216494571090356096
+      Stone: 6142543257898026600
+      Sword 1: 183573810413276680
+      '#2 - Transparent Icons & Drop Shadow_26': 6233947190329606780
+      '#2 - Transparent Icons & Drop Shadow_136': -3122399997724876031
+      Shield 1: -7822049742711148976
+      '#2 - Transparent Icons & Drop Shadow_256': -6750408783741295316
+      '#2 - Transparent Icons & Drop Shadow_6': 1842380838397042475
+      '#2 - Transparent Icons & Drop Shadow_104': -978527167860701757
+      '#2 - Transparent Icons & Drop Shadow_258': -3549148016663579148
+      '#2 - Transparent Icons & Drop Shadow_239': -7957652584325686945
+      '#2 - Transparent Icons & Drop Shadow_259': -5523013176390652018
+      '#2 - Transparent Icons & Drop Shadow_137': -8888933011482793071
+      '#2 - Transparent Icons & Drop Shadow_266': -8573575788960047104
+      Helm 2: -9147071376023271221
+      '#2 - Transparent Icons & Drop Shadow_4': 6948773886327953995
+      '#2 - Transparent Icons & Drop Shadow_22': 5241480379350098711
+      Book 2: 6975746642326818321
+      Book 8: -3032231566403425396
+      Skull: -7568524073924095226
+      Garlic: -8331572242567495242
+      Apple: 8100173508216559957
+      '#2 - Transparent Icons & Drop Shadow_242': -8459016738362980394
+      Potion Empty: 4775819950423338855
+      '#2 - Transparent Icons & Drop Shadow_106': -8753393225063967389
+      Whip: -5606345008730570156
+      Glove 2: -8072734333329823742
+      Dagger 4: -7405286937500457954
+      Copper Coin: 5498310778425241025
+      Pants 3: 5576558967255421441
+      '#2 - Transparent Icons & Drop Shadow_29': 5942704498625079392
+      '#2 - Transparent Icons & Drop Shadow_155': 7311480069754638794
+      Horse: 3792681950590231387
+      '#2 - Transparent Icons & Drop Shadow_145': 8099792054545138375
+      '#2 - Transparent Icons & Drop Shadow_14': 6602636038343897003
+      '#2 - Transparent Icons & Drop Shadow_153': 8635983665342292221
+      Dialog: 7539286595509921347
+      Helm 4: 4620036233086308783
+      Tool Axe: 6812396857366647474
+      '#2 - Transparent Icons & Drop Shadow_115': 3653192047798930668
+      '#2 - Transparent Icons & Drop Shadow_243': 7239756022324072331
+      Drink: 8421659737649855299
+      '#2 - Transparent Icons & Drop Shadow_124': -7304476087515427257
+      '#2 - Transparent Icons & Drop Shadow_105': 3332671309235019512
+      '#2 - Transparent Icons & Drop Shadow_47': -5164983277317961741
+      Salt: -8951304189195089106
+      Book 5: -3611524022231650080
+      Carrot: -8860478429687436892
+      '#2 - Transparent Icons & Drop Shadow_35': -7516765442453985350
+      Milk: -4958458704909742478
+      '#2 - Transparent Icons & Drop Shadow_154': 8063304825762643347
+      '#2 - Transparent Icons & Drop Shadow_8': 804741048422990168
+      Pants 1: 9153715404705889837
+      '#2 - Transparent Icons & Drop Shadow_108': 2242127617640288418
+      Tool Hammer: 7723507555042334362
+      Spice: 6010118646404486385
+      '#2 - Transparent Icons & Drop Shadow_261': 1210564344755463477
+      '#2 - Transparent Icons & Drop Shadow_18': -3923099718294011341
+      Bag 1: 4106480638470415659
+      Ring 4: 5290622554995841036
+      '#2 - Transparent Icons & Drop Shadow_102': -8354208325991750120
+      '#2 - Transparent Icons & Drop Shadow_113': -5484451948897457147
+      Heml 5: -6608148472023216053
+      '#2 - Transparent Icons & Drop Shadow_125': 766568942560507546
+      '#2 - Transparent Icons & Drop Shadow_5': -4768308916089180935
+      '#2 - Transparent Icons & Drop Shadow_240': 3745081088445577032
+      '#2 - Transparent Icons & Drop Shadow_236': -5205662494574892940
+      '#2 - Transparent Icons & Drop Shadow_269': -2796071702963426276
+      '#2 - Transparent Icons & Drop Shadow_33': 5540574519761578848
+      Scroll closed: -5141525515687405265
+      Banana: -4830942296010914177
+      Manifying glass: 5702301827914847618
+      Pants 2: 5970681058612394725
+      '#2 - Transparent Icons & Drop Shadow_271': 7969046993835574059
+      '#2 - Transparent Icons & Drop Shadow_45': 8013616204054527717
+      '#2 - Transparent Icons & Drop Shadow_27': 8296119791664463575
+      '#2 - Transparent Icons & Drop Shadow_281': -1045323024871736742
+      Boot 1: 6351365340128835113
+      Egg: 1145404032394259606
+      '#2 - Transparent Icons & Drop Shadow_274': -6685496933419510379
+      '#2 - Transparent Icons & Drop Shadow_247': -1203358537988948490
+      Axe 2: -6451020461040997553
+      Helm 3: 7819060303277530886
+      '#2 - Transparent Icons & Drop Shadow_252': 2129610239855971139
+      Tool Fishing: 7058349591738051420
+      Eggplant: -4012141969497314876
+      Sight: -7483596328251532873
+      Fish 4: -7642161154661158119
+      Boomarang: 3964465338351796908
+      Bread 1: -6037611042952805034
+      Wool: 4636447500729424692
+      '#2 - Transparent Icons & Drop Shadow_107': 1305000423023697474
+      Grape: -4675753704938881013
+      '#2 - Transparent Icons & Drop Shadow_103': -5708691651963701962
+      '#2 - Transparent Icons & Drop Shadow_157': -8405252794140944200
+      Feather: 5460315946373779467
+      Strawberry: -4300520847608141783
+      '#2 - Transparent Icons & Drop Shadow_140': 6768465706591882896
+      Sun Dusk: -3384462780974178560
+      '#2 - Transparent Icons & Drop Shadow_17': -1245755177353750832
+      '#2 - Transparent Icons & Drop Shadow_38': 3378112070155288112
+      '#2 - Transparent Icons & Drop Shadow_25': 3435686699319217275
+      '#2 - Transparent Icons & Drop Shadow_268': 715997935203308138
+      Sword 4: 969911064562707275
+      Torch: -4493119780215096621
+      Book 6: -3154850044925739375
+      Corn: 8504972468082110267
+      Meat Cooked: 1374670549757452355
+      '#2 - Transparent Icons & Drop Shadow_36': 4697799021792961516
+      '#2 - Transparent Icons & Drop Shadow_110': -8192483641660394284
+      Glove 1: -8659921585605857471
+      Cloth 1: 1484917075010711910
+      '#2 - Transparent Icons & Drop Shadow_164': -3591317230858283200
+      '#2 - Transparent Icons & Drop Shadow_245': 5005549167977470398
+      '#2 - Transparent Icons & Drop Shadow_251': 4452902665718519870
+      Figh 8: -3513621829382666981
+      '#2 - Transparent Icons & Drop Shadow_147': 4487214514996280067
+      Club: 2770867968450680294
+      '#2 - Transparent Icons & Drop Shadow_9': -5628875207666852851
+      '#2 - Transparent Icons & Drop Shadow_142': -2129252301932304945
+      Armor 4: 5688385721555123385
+      Tool Pick: 7281626079675469898
+      Helm 1: -6184507285319492425
+      Fish 9: -8877052817109994687
+      '#2 - Transparent Icons & Drop Shadow_19': 1599180710894039856
+      Fish 3: -8260647028948093834
+      Sword 2: 1704530735959705138
+      Book 7: -2490587925212428839
+      '#2 - Transparent Icons & Drop Shadow_273': 1435083807972979427
+      '#2 - Transparent Icons & Drop Shadow_134': 5180278899884751490
+      Book 9: 745079209864166825
+      Scroll Open: -6412529325694471836
+      '#2 - Transparent Icons & Drop Shadow_235': 193776288328875908
+      tomato: -4495425090866840351
+      Cheese: 1162753139007183908
+      '#2 - Transparent Icons & Drop Shadow_209': 7964594000054679645
+      '#2 - Transparent Icons & Drop Shadow_257': 352957040730354879
+      '#2 - Transparent Icons & Drop Shadow_152': 5594105880233148557
+      '#2 - Transparent Icons & Drop Shadow_270': -5977185819954782074
+      Lemon: 9051664168745105658
+      Diamond: -550771597486948442
+      '#2 - Transparent Icons & Drop Shadow_112': -1192392031901719504
+      '#2 - Transparent Icons & Drop Shadow_163': -7176768192816253104
+      '#2 - Transparent Icons & Drop Shadow_16': -413687423355243995
+      Tool hoe: 6229783472119169768
+      Sword 5: 8921443712075806451
+      '#2 - Transparent Icons & Drop Shadow_156': 7861745911137020964
+      '#2 - Transparent Icons & Drop Shadow_211': -726719379730627744
+      Fish 11: -4913508092620749888
+      Book 3: -9034327563270943197
+      Nigjt: -5221447207604669579
+      '#2 - Transparent Icons & Drop Shadow_30': -5501215998907543212
+      Ring 5: -7324339567714289606
+      '#2 - Transparent Icons & Drop Shadow_44': 8244745962220302406
+      Staff Nature: 7526374455504009102
+      Key: -4672503218770899442
+      Sword 6: 2105162914696504809
+      Fish 1: -1951230028792470334
+      Fists: -2027895187021310853
+      '#2 - Transparent Icons & Drop Shadow_276': 4093176322471666036
+      '#2 - Transparent Icons & Drop Shadow_37': 5864141120653579955
+      Bomb: 7356012238514178944
+      Dagger 2: -950096140469595123
+      '#2 - Transparent Icons & Drop Shadow_12': 1422253230955754594
+      '#2 - Transparent Icons & Drop Shadow_138': -157310728770800790
+      '#2 - Transparent Icons & Drop Shadow_148': -1388334726044338524
+      '#2 - Transparent Icons & Drop Shadow_144': 9216980979689419991
+      Chicken: 7231550048576880314
+      '#2 - Transparent Icons & Drop Shadow_161': 6689822577633031747
+      Silver Coin: 2976515441447516915
+      Dagger 1: 5191580535614204767
+      Bread 2: -5462704634393959283
+      '#2 - Transparent Icons & Drop Shadow_210': 8757547565198951967
+      '#2 - Transparent Icons & Drop Shadow_111': 2399578771559581788
+      '#2 - Transparent Icons & Drop Shadow_42': 8469456256804645828
+      '#2 - Transparent Icons & Drop Shadow_24': 6397100653707125053
+      '#2 - Transparent Icons & Drop Shadow_244': 7375747531102694761
+      '#2 - Transparent Icons & Drop Shadow_262': -9155644283013557474
+      Honey: 466456548507416648
+      Figh 5: -5291536130655649182
+      '#2 - Transparent Icons & Drop Shadow_241': 3406941685592084098
+      '#2 - Transparent Icons & Drop Shadow_265': -5992891883500385013
+      '#2 - Transparent Icons & Drop Shadow_43': 7788705131787259084
+      Ring 2: 1248619470624631663
+      '#2 - Transparent Icons & Drop Shadow_146': -6599546582249927157
+      Eggs: -8423117483235724136
+      Gold: 7774254553147042332
+      Figh 6: 864916451691004800
+      Trap: 7587327949842529059
+      '#2 - Transparent Icons & Drop Shadow_40': 8579901613499352774
+      Fish 12: 2638214239362370348
+      '#2 - Transparent Icons & Drop Shadow_282': -7947354301065827530
+      '#2 - Transparent Icons & Drop Shadow_165': 1954068733071698231
+      '#2 - Transparent Icons & Drop Shadow_264': 5466908159382051022
+      '#2 - Transparent Icons & Drop Shadow_275': 5189726397073159175
+      Health Potion: -1241399281213930050
+      '#2 - Transparent Icons & Drop Shadow_28': 8758660628681154190
+      Maul: -5443706011219761410
+      Armor 2: -2581948243186363227
+      Armor 3: 2831401197825969033
+      '#2 - Transparent Icons & Drop Shadow_272': -5191351630652530774
+      Cloth 2: 8734278466190218363
+      Fish 10: -5258166664456349547
+      '#2 - Transparent Icons & Drop Shadow_114': 429199960171848815
+      Fish: -234197381693910589
+      '#2 - Transparent Icons & Drop Shadow_246': 41946356324131235
+      Bag 2: -143208548368856878
+      Lamp: 7071413685948691855
+      Chicken leg: 5428956538372255841
+      '#2 - Transparent Icons & Drop Shadow_23': -3488153121969934050
+      Ring 1: -7911167414898439247
+      Ore: -2184882346354886025
+      Mushroom: -5335074340823809906
+      Staff: 4240453425555717549
+      '#2 - Transparent Icons & Drop Shadow_135': 2093714518365425205
+      Pear: 3144352708175808623
+      '#2 - Transparent Icons & Drop Shadow_39': 4884337891824352890
+      Dagger 3: 3583167426799192178
+      Belt: -7492221114004634305
+      Wood: -6765587114449210688
+      Slingshot: 249412086356771944
+      '#2 - Transparent Icons & Drop Shadow_117': 7423710207338370629
+      '#2 - Transparent Icons & Drop Shadow_267': -8712343438922201611
+      '#2 - Transparent Icons & Drop Shadow_34': 7183686000987961966
+      Fish hook: 4951166039389310982
+      Armor 1: -6312372248548970523
+      '#2 - Transparent Icons & Drop Shadow_254': 6152015384126895060
+      Rope: 9177197982001231785
+      Green Blob: 2584609656251380707
+      '#2 - Transparent Icons & Drop Shadow_89': 5862109787822352134
+      Figh 7: 4918712904808858685
+      '#2 - Transparent Icons & Drop Shadow_151': 6678823951699107959
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
