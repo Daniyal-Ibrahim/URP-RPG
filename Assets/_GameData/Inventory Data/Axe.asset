@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09c40920a873439ba8c56db99c345822, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a90642d2da234404db4d59b6713d2e44, type: 3}
+  description: This is an axe
+  id: 
+  rarity: {fileID: 11400000, guid: a4160934af73c85478a5105d2f9d7b61, type: 2}
+  basePrice: 1
+  priceMultiplier: 1
+  maxStack: 1
+  calculatedPrice: 1
+  baseDamage: 5
+  maxDamage: 5

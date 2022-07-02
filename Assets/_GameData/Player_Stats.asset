@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74d7089fd252d9949b46f0fc1f416a47, type: 3}
+  m_Name: Player_Stats
+  m_EditorClassIdentifier: 
+  onResultsCalculated: {fileID: 11400000, guid: 02623205c00485a4d8cfb57c7748fcfc,
+    type: 2}
+  level: 3
+  hpDice: 8
+  mpDice: 6
+  dmgPhyDieSize: 1
+  dmgPhyDieMultiplier: 1
+  dmgMagicDieSize: 1
+  dmgMagicDieMultiplier: 1
+  baseStat: 10
+  vigor: 18
+  might: 5
+  reflex: 51
+  mind: 21
+  will: 0
+  sanity: 1
+  vigorBonus: 4
+  mightBonus: -2
+  reflexBonus: 20
+  mindBonus: 5
+  willBonus: -5
+  sanityBonus: -4
+  healthMax: 36
+  healthCurrent: 36
+  magicMax: 33
+  magicCurrent: 33
+  physicalDmg: -2
+  magicDmg: 5
