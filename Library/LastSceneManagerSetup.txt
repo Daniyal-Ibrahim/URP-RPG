@@ -1,4 +1,26 @@
 sceneSetups:
+<<<<<<< HEAD
+- path: Assets/_Scenes/MainMenu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/_Scenes/CharacterCreation.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/_Scenes/3D.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/_Scenes/test.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/_Scenes/Gameplay.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+=======
 - path: Assets/_Scenes/Gameplay.unity
   isLoaded: 0
   isActive: 0
@@ -15,3 +37,4 @@ sceneSetups:
   isLoaded: 0
   isActive: 0
   isSubScene: 0
+>>>>>>> parent of 01e07ba9a (Systems update)

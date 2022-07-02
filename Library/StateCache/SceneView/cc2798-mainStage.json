@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":false,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":true,"pivot":{"x":10.860617637634278,"y":0.9610821008682251,"z":-15.600024223327637},"rotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"size":7.482128143310547,"orthographic":true}
+=======
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":false,"showMaterialUpdate":false,"showSkybox":false,"showFlares":false,"showImageEffects":false,"showParticleSystems":false},"in2DMode":false,"pivot":{"x":9.087831497192383,"y":2.866177558898926,"z":9.727331161499024},"rotation":{"x":0.12123849242925644,"y":0.8642795085906982,"z":-0.24983622133731843,"w":0.41941094398498537},"size":5.54951810836792,"orthographic":true}
+>>>>>>> parent of 01e07ba9a (Systems update)
