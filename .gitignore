@@ -33,6 +33,7 @@ Logs/shadercompiler-UnityShaderCompiler.exe0.log
 Logs/Packages-Update.log
 Logs/AssetImportWorker1-prev.log
 Logs/AssetImportWorker0-prev.log
+Library/
 Library/UIElements/EditorWindows/UnityEditor.ShaderGraph.Drawing.MaterialGraphEditWindow.pref
 Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref
 Library/Style.catalog
@@ -18795,3 +18796,4 @@ Assembly-CSharp-Editor-firstpass.csproj
 Assembly-CSharp-Editor-firstpass.csproj
 Assembly-CSharp-firstpass.csproj
 Assembly-CSharp.csproj
+Library/ArtifactDB-lock

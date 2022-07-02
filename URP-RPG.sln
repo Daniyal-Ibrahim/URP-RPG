@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ee9e6b7d-eedf-742a-4c73-de492afda79e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{06437b68-e691-20ec-f127-a0ff24501e9f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer", "Sirenix.OdinInspector.CompatibilityLayer.csproj", "{5c531dd0-1a0c-7220-ed3a-f6adeb6c80d5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InputSystem.RebindingUI", "Unity.InputSystem.RebindingUI.csproj", "{748f36e0-f232-3233-32cc-0bb97877273b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.Samples.SampleScene", "Unity.PlayerPrefsEditor.Samples.SampleScene.csproj", "{b0a1e2b5-8e72-6358-572e-b1026d995f58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer.Editor", "Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj", "{64e82bbe-1fbf-d05b-8f73-d6c185264ef2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.Editor", "Unity.PlayerPrefsEditor.Editor.csproj", "{4dda9e49-d9f1-daaa-472c-773d4641928b}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{17791256-0832-bcee-7b79-aac4b0b9948e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.PlayerPrefsEditor.EditorResources", "Unity.PlayerPrefsEditor.EditorResources.csproj", "{55d077c3-4b1d-c228-4cb8-0376cb85c511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.Modules.UnityMathematics", "Sirenix.OdinInspector.Modules.UnityMathematics.csproj", "{1ada8ac6-8868-51d4-6d9f-4f5e724fdc7b}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ee9e6b7d-eedf-742a-4c73-de492afda79e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ee9e6b7d-eedf-742a-4c73-de492afda79e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06437b68-e691-20ec-f127-a0ff24501e9f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06437b68-e691-20ec-f127-a0ff24501e9f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5c531dd0-1a0c-7220-ed3a-f6adeb6c80d5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5c531dd0-1a0c-7220-ed3a-f6adeb6c80d5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748f36e0-f232-3233-32cc-0bb97877273b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748f36e0-f232-3233-32cc-0bb97877273b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b0a1e2b5-8e72-6358-572e-b1026d995f58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b0a1e2b5-8e72-6358-572e-b1026d995f58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64e82bbe-1fbf-d05b-8f73-d6c185264ef2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64e82bbe-1fbf-d05b-8f73-d6c185264ef2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4dda9e49-d9f1-daaa-472c-773d4641928b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4dda9e49-d9f1-daaa-472c-773d4641928b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17791256-0832-bcee-7b79-aac4b0b9948e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17791256-0832-bcee-7b79-aac4b0b9948e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55d077c3-4b1d-c228-4cb8-0376cb85c511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55d077c3-4b1d-c228-4cb8-0376cb85c511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ada8ac6-8868-51d4-6d9f-4f5e724fdc7b}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ada8ac6-8868-51d4-6d9f-4f5e724fdc7b}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
